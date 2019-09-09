@@ -66,5 +66,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
- About me
+
 I'm an Animal Scientist and currently a MSc Student in Genetics and Animal Breeding at São Paulo State University (UNESP) in Brazil. I've joined Morota Lab at Virginia Tech as a Research Visitor in 2019. My research interests include non-additive gene actions and its effects on complex traits in livestock species. I'm interested in to better understand the genetic architecture of economic important traits, and also apply and develop statistical methods of prediction in the whole-genome era. 
