@@ -68,8 +68,8 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "sabrina0207amorim@gmail.com"
-phone = "+1 (540) 449-6452"
-address = "175 West Campus Drive, Virginia Tech, Blacksburg, VA, 24060, USA"
+phone = "+55 (47) 98861-0954"
+# address = "{street = "Via de Acesso Prof. Paulo Donato Castellane", city = #"Jaboticabal", region = "SP", postcode = "14870-000", country = "Brazil", country_code = #"BR"}"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
@@ -167,25 +167,9 @@ sharing = true
   engine = 0
 
   # Which page types are commentable?
-  commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
+  commentable = {page = true, post = true, docs = true}
 
   # Configuration of Disqus.
   [comments.disqus]
     shortname = ""  # Paste the shortname from your Disqus dashboard.
     show_count = true  # Show comment count in page header? (true/false)
-
-# Search.
-[search]
-  # Search provider:
-  #   0: No search engine
-  #   1: Academic (built-in)
-  #   2: Algolia (https://www.algolia.com)
-  engine = 1
-
-  # Configuration of Algolia search engine.
-  # Paste the values from your Algolia dashboard.
-  [search.algolia]
-    app_id = ""
-    api_key = ""
-    index_name = ""
-    show_logo = false
